@@ -1,0 +1,10 @@
+<code_scheme name="Default" version="173">
+  <option name="LINE_SEPARATOR" />
+  <JavaCodeStyleSettings>
+    <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="ENUM_CONSTANTS_WRAP" value="5" />
+  </codeStyleSettings>
+</code_scheme>
